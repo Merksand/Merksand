@@ -20,7 +20,6 @@ I’m a programmer who recently completed a technical degree in IT systems. I en
 - 👯 I’m excited to collaborate on **web development projects**.
 - ✔ **Ask me about anything related to React, Next.js, or system development.**  
 - Outside of coding, I enjoy 🎮 playing video games, 📚 reading about science and technology, and listening to 🎵 music.  
-- 👾 I’m also starting to share content about programming on my social media, so feel free to check it out!  
 - 📫 You can reach me at: <a href="mailto:mimacrudev@gmail.com">mimacrudev@gmail.com</a>
 
 
