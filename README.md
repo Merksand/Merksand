@@ -54,7 +54,7 @@ I’m a programmer who recently completed a technical degree in IT systems. I en
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,astro,redux,materialui,nodejs,express,prisma,mysql,mongodb,postgres,git,github,postman,md,vscode,figma,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,astro,redux,materialui,nodejs,express,nestjs,prisma,mysql,mongodb,postgres,git,github,docker,bash,latex,postman,md,vscode,npm,pnpm,figma,vercel,supabase,discord,obsidian&perline=14" />
   </a>
 </p>
 
